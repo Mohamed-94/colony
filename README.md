@@ -1,7 +1,4 @@
-![3](https://user-images.githubusercontent.com/38832580/96908243-a2941700-149c-11eb-8e91-55b8e1617030.png)
-![1](https://user-images.githubusercontent.com/38832580/96908247-a3c54400-149c-11eb-9381-96dd6a8d9908.png)
-![2](https://user-images.githubusercontent.com/38832580/96908249-a45dda80-149c-11eb-9102-c21bea37cf50.png)
-
+# Colony
 
 ## Introduction to Emergence , Chaos theory and NonLinear Dynamics
 
@@ -11,7 +8,7 @@ Emergence on the other hand is when the parts of a system not equal the the whol
 
 examples include:  (Ant colony, Human society or the universal economy).
 
-you can find more about Emergence and Chaos theory [here](https://en.wikipedia.org/wiki/Chaos_theory)
+you can find more about [Emergence](https://en.wikipedia.org/wiki/Emergence) and [Chaos theory](https://en.wikipedia.org/wiki/Chaos_theory)
 
 ## about
 
@@ -23,8 +20,11 @@ you can find more about Emergence and Chaos theory [here](https://en.wikipedia.o
 
 in this game I've defined a simple rules with specific initial conditions to begin with..
 the three rules is as follows :
+
 1- red birds follow green birds
+
 2- green birds follow yellow birds
+
 3- yellow birds follow red birds
 
 so simple huh..
@@ -41,3 +41,10 @@ so simple huh..
 ## wierd results
 
 although the rules and the initial conditions are very simple and easy managed, you will get a different result each time you play the game even though the initial conditions aren't changed! teh.
+
+## pictures
+<h4>
+![3](https://user-images.githubusercontent.com/38832580/96908243-a2941700-149c-11eb-8e91-55b8e1617030.png)
+![1](https://user-images.githubusercontent.com/38832580/96908247-a3c54400-149c-11eb-9381-96dd6a8d9908.png)
+![2](https://user-images.githubusercontent.com/38832580/96908249-a45dda80-149c-11eb-9102-c21bea37cf50.png)
+</h4>
