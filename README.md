@@ -43,8 +43,8 @@ so simple huh..
 although the rules and the initial conditions are very simple and easy managed, you will get a different result each time you play the game even though the initial conditions aren't changed! teh.
 
 ## pictures
-<h4>
+
 ![3](https://user-images.githubusercontent.com/38832580/96908243-a2941700-149c-11eb-8e91-55b8e1617030.png)
 ![1](https://user-images.githubusercontent.com/38832580/96908247-a3c54400-149c-11eb-9381-96dd6a8d9908.png)
 ![2](https://user-images.githubusercontent.com/38832580/96908249-a45dda80-149c-11eb-9102-c21bea37cf50.png)
-</h4>
+
