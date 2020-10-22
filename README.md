@@ -21,11 +21,11 @@ you can find more about [Emergence](https://en.wikipedia.org/wiki/Emergence) and
 in this game I've defined a simple rules with specific initial conditions to begin with..
 the three rules is as follows :
 
-1- red birds follow green birds
+1- gree birds follow red birds
 
-2- green birds follow yellow birds
+2- red birds follow yellow birds
 
-3- yellow birds follow red birds
+3- yellow birds follow green birds
 
 so simple huh..
 
