@@ -2,9 +2,9 @@
 
 ## Introduction to Emergence , Chaos theory and NonLinear Dynamics
 
-Emergence is part of Chaos theory which is a part of Dynamics the branch of mathematics that deals with non-linear systems in our universe aka chaotic systems that the prediction of their future status is impossible due to the huge shifts made by the slightly changes of their initial conditions.
+Emergence is part of Chaos theory which is a part of Dynamics the branch of mathematics that deals with non-linear systems in our universe a.k.a chaotic systems, that the prediction of their future status is impossible due to the huge shifts made by the slightly changes of their initial conditions.
 
-Emergence on the other hand is when the parts of a system not equal the the whole system meaning when a group creatures perform a task that can not be performed by one of their  elements.
+Emergence on the other hand is when the sum of the system's elements is not equal the the whole system, meaning when a group of creatures perform a task that can not be performed by one of their elements alone.
 
 examples include:  (Ant colony, Human society or the universal economy).
 
@@ -19,7 +19,7 @@ you can find more about [Emergence](https://en.wikipedia.org/wiki/Emergence) and
 ## three rules
 
 in this game I've defined a simple rules with specific initial conditions to begin with..
-the three rules is as follows :
+the three rules are as follows :
 
 1- gree birds follow red birds
 
@@ -36,7 +36,7 @@ so simple huh..
  every bird has a box collider and can fly from right to left and go backwards,
  upon every interaction between birds (the colliders) the above rules get applied.
  
- after a few minutes some random bird will take over the all other birds start following him.
+ after a few minutes some random bird will take over the sceen and all other birds will start following him.
 
 ## wierd results
 
